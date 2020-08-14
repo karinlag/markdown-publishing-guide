@@ -18,3 +18,11 @@ Documents
    :caption: Caption2  
  
    subdir1/*
+
+.. toctree::
+   :hidden:
+   :glob:
+   :titlesonly:
+   :caption: Caption3  
+ 
+   subdir2-file
