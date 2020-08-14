@@ -5,6 +5,7 @@ Documents
 =========
 .. toctree::
    :hidden:
+   :titlesonly:
    :glob:
    
    markdown-publishing-guide
