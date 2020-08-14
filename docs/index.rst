@@ -7,6 +7,7 @@ Documents
    :hidden:
    :glob:
    :titlesonly:
+   :maxdepth: 1
    :caption: Caption1
    
    markdown-publishing-guide
@@ -15,6 +16,7 @@ Documents
    :hidden:
    :glob:
    :titlesonly:
+   :maxdepth: 1
    :caption: Caption2  
  
    subdir1/*
@@ -23,6 +25,7 @@ Documents
    :hidden:
    :glob:
    :titlesonly:
+   :maxdepth: 1
    :caption: Caption3  
  
    topdir-file
