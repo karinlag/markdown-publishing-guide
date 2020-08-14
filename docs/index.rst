@@ -7,6 +7,7 @@ Documents
    :hidden:
    :titlesonly:
    :glob:
+   :caption: top caption
    
    markdown-publishing-guide
    topdir-file
