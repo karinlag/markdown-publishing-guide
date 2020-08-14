@@ -25,4 +25,4 @@ Documents
    :titlesonly:
    :caption: Caption3  
  
-   subdir2-file
+   topdir-file
