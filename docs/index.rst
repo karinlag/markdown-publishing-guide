@@ -7,7 +7,7 @@ Documents
    :hidden:
    :glob:
    :titlesonly:
-   :maxdepth: 1
+   :maxdepth: 2
    :caption: Caption1
    
    markdown-publishing-guide
