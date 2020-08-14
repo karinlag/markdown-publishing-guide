@@ -4,7 +4,7 @@ markdown-publishing-guide
 Documents
 =========
 .. toctree::
-   :maxdepth: 16
+   :maxdepth: 2
    :glob:
 
    markdown-publishing-guide
