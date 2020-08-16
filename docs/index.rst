@@ -32,3 +32,10 @@ Documents
    :caption: Tools/software
    
    tools/index
+   
+.. toctree::
+   :hidden:
+   :titlesonly:
+   :caption: Tricks and hints
+   
+   tricks/index
