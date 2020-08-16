@@ -6,14 +6,29 @@ Documents
 .. toctree::
    :hidden:
    :titlesonly:
-   :caption: top caption
+   :caption: Documentation overview
    
-   markdown-publishing-guide
-   topdir-file
+   About
+   License
+   Contribute
    
 .. toctree::
    :hidden:
    :titlesonly:
-   :caption: second caption
+   :caption: Technical overview
    
-   subdir1/index.rst
+   technical/index
+   
+.. toctree::
+   :hidden:
+   :titlesonly:
+   :caption: Tutorials/how-tos
+   
+   tutorials/index
+ 
+.. toctree::
+   :hidden:
+   :titlesonly:
+   :caption: Tools/software
+   
+   tools/index
