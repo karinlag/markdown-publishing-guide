@@ -8,9 +8,9 @@ Documents
    :titlesonly:
    :caption: Documentation overview
    
-   About
-   License
-   Contribute
+   about
+   license
+   contribute
    
 .. toctree::
    :hidden:
