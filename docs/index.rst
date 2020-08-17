@@ -3,7 +3,7 @@ NVI Documentation
 This guide contains documentation, tutorials and guides on how to
 work with data analysis in various forms at the NVI. 
 
-=========
+
 .. toctree::
    :hidden:
    :titlesonly:
