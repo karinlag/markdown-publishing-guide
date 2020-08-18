@@ -14,6 +14,7 @@ work with data analysis in various forms at the NVI.
 .. toctree::
    :hidden:
    :titlesonly:
+   :caption: Technical overview
    
    technical/index
    
