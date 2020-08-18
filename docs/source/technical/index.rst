@@ -1,6 +1,4 @@
-Technical information/inde
-==========================
-
+=
 .. toctree::
    :hidden:
    :titlesonly:
