@@ -5,5 +5,6 @@ Technical overview
    :hidden:
    :titlesonly:
    :glob:
+   :maxdepth: 0
    
    *
